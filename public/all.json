@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1",
+    "name": "Salaar",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8730/1707996958730-i",
+    "category": "Action"
+  },
+  {
+    "id": "2",
+    "image": "https://m.timesofindia.com/photo/86284736.cms",
+    "name": "Shiddat",
+    "category": "Romance"
+  },
+  {
+    "id": "3",
+    "name": "Cuttputlli",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/833/1650833-i-0fe6a37d72ce",
+    "category": "Mystery"
+  },
+  {
+    "id": "4",
+    "name": "The Marvels",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7013/1657013-i-0433f19bb907",
+    "category": "Adventure"
+  },
+  {
+    "id": "5",
+    "name": "Dil Bechara",
+    "category": "Romance",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2437/1602437-i-a104f4d4ba12"
+  },
+  {
+    "id": "6",
+    "name": "Tanhaji",
+    "category": "Historical",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2995/1372995-i-9b41e01cc3b3"
+  },
+  {
+    "id": "7",
+    "name": "Total Dhamaal",
+    "category": "Comedy",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5545/1375545-i-4b156857922b"
+  },
+  {
+    "id": "8",
+    "name": "The Big Bull",
+    "category": "Crime",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7578/1627578-i-fd2ff2bb5dba"
+  },
+  {
+    "id": "9",
+    "name": "Brahmastra",
+    "image": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_750/sources/r1/cms/prod/5693/1405693-i-d32e11fe5fd9",
+    "category": "Adventure"
+  },
+  {
+    "id": 10,
+    "name": "Titanic",
+    "category": "Historical",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9139/1609139-i-518abe004076"
+  },
+  {
+    "id": 11,
+    "name": "Tadap",
+    "category": "Romance",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9457/1369457-i-6e7c4fdd453b"
+  },
+  {
+    "id": 12,
+    "name": "Raid",
+    "category": "Crime",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9163/1707274889163-i"
+  },
+  {
+    "id": 13,
+    "category": "Drama",
+    "name": "Bajrangi Bhaijaan",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8810/1368810-i-23e8b2a73613"
+  },
+  {
+    "id": 14,
+    "name": "Hungama2",
+    "category": "Comedy",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8501/1707125998501-i"
+  },
+  {
+    "id": 15,
+    "name": "Guardians Of The Galaxy",
+    "category": "Adventure",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7475/1557475-i-e371b3e8fdb4"
+  },
+  {
+    "id": 16,
+    "name": "DD Returns",
+    "category": "Comedy",
+    "image": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/8608/1708613018608-i"
+  },
+  {
+    "id": 17,
+    "name": "Son of Sardaar",
+    "category": "Comedy",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5644/1365644-i-9f2dc0bbe522"
+  },
+  {
+    "id": 18,
+    "name": "Biwi No.1",
+    "category": "Comedy",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2046/1372046-i-d97c8677b698"
+  },
+  {
+    "id": 19,
+    "name": "Humko Deewana Kar Gaye",
+    "category": "Romance",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9646/1369646-i-cc0f106404b2"
+  },
+  {
+    "id": 20,
+    "name": "Chappak",
+    "category": "Drama",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6872/1366872-i-bb76e655adad"
+  },
+  {
+    "id": 21,
+    "name": "Bobby Jasoos",
+    "category": "Drama",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9345/1707122349345-i"
+  },
+  {
+    "id": 22,
+    "name": "Om Jai Jagdish",
+    "category": "Drama",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4040/1374040-i-7115a02fc030"
+  },
+  {
+    "id": 23,
+    "name": "Apurva",
+    "category": "Crime",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9660/1707127799660-i"
+  },
+  {
+    "id": 24,
+    "name": "Baaghi3",
+    "category": "Action",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8068/1408068-i-df235801e67e"
+  },
+  {
+    "id": 25,
+    "name": "Pirates of The Caribbean",
+    "category": "Action",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4278/1374278-i-00cd5b606a7a"
+  },
+  {
+    "id": 26,
+    "name": "Ms Dhoni",
+    "category": "BioPic",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5333/1375333-i-e44f367bc7fa"
+  },
+  {
+    "id": 27,
+    "name": "Super 30",
+    "category": "BioPic",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2412/1707280352412-i"
+  },
+  {
+    "id": 28,
+    "name": "Neerja",
+    "category": "BioPic",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9091/1429091-i-cf34c7a118a0"
+  },
+  {
+    "id": 29,
+    "name": "Sanju",
+    "category": "BioPic",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9007/1369007-i-f060dfdde3c1"
+  },
+  {
+    "id": 30,
+    "name": "Sita Raman",
+    "category": "Romance",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3410/1623410-i-5fe8c00b81e1"
+  },
+  {
+    "id": 31,
+    "name": "Atrangi Re",
+    "category": "Drama",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7516/1597516-i-751da827e22b"
+  },
+  {
+    "id": 32,
+    "name": "Bhoot Police",
+    "category": "Horror",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4708/1707126314708-i"
+  },
+  {
+    "id": 33,
+    "name": "The Haunted Mansion",
+    "category": "Horror",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3933/1593933-i-6b4cbcaf9525"
+  },
+  {
+    "id": 34,
+    "name": "The Past",
+    "category": "Horror",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5610/1375610-i-52a5da7bdf75"
+  },
+  {
+    "id": 35,
+    "name": "Liger",
+    "category": "Sports",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5944/1615944-i-d9f07bfd2d40"
+  },
+  {
+    "id": 36,
+    "name": "Panga",
+    "category": "Sports",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2945/1372945-i-0fe8052b06ac"
+  },
+  {
+    "id": 37,
+    "name": "83",
+    "category": "Sports",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8243/1408243-i-df82ea1b7b20"
+  },
+  {
+    "id": 38,
+    "name": "The Lion King",
+    "category": "Fantasy",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9293/809293-i"
+  },
+  {
+    "id": 39,
+    "name": "The Beauty And The Beast",
+    "category": "Fantasy",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1209/1371209-i-096cf5035b55"
+  },
+  {
+    "id": 40,
+    "name": "The Jungle Book",
+    "category": "Fantasy",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8752/1368752-i-0d4f9930e8e3"
+  },
+  {
+    "id": 41,
+    "name": "Aladdin",
+    "category": "Fantasy",
+    "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7982/1407982-i-452a8daf932d"
+  },
+  {
+    "id": 42,
+    "name": "Bhool Bhoolaiyaa",
+    "category": "Mystery",
+   "image": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9705/1369705-i-6639ebe04527"
+  }
+]
